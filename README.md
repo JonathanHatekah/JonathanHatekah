@@ -1,8 +1,8 @@
-[![MasterHead](https://gist.github.com/MedRedha/fd8e2481bde2610c96b9aafde543879c)
+
 <h1 align="center">Hi 👋, I'm Jonathan Hatekah</h1>
 <h3 align="center">A passionate software developer</h3>
 
-<p align="left"> <img src="https://www.pinterest.com/pin/lottieanimationchainstarters--59813501292017265/" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/underageeee" target="blank"><img src="https://img.shields.io/twitter/follow/underageeee?logo=twitter&style=for-the-badge" alt="underageeee" /></a> </p>
 
