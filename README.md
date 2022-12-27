@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **jonathanhatekah18@gmail.com**
 
-- ⚡ Fun fact **Do what you love to do best and wait to see who you become!**
+- ⚡ Fun fact **Evolution♻️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
