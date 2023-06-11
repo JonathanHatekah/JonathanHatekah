@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/underageeee" target="blank"><img src="https://img.shields.io/twitter/follow/underageeee?logo=twitter&style=for-the-badge" alt="underageeee" /></a> </p>
 
-- 🔭 I’m interested in **Software development and Cyber Security**
+- 🔭 I’m interested in **Full Stack development and Cyber Security**
 
 - 🌱 I’m currently learning **Computer science**
 
