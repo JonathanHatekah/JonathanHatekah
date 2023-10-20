@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jonathan Hatekah</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">A passionate software developer and cyber security analyst</h3>
 <img src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif" height="300"alt="logo"></img>
 
 <img src="https://komarev.com/ghpvc/?username=underagee&label=Profile%20views&color=0e75b6&style=flat" alt="underagee"/>
