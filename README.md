@@ -16,6 +16,7 @@
 - 💬 Ask me about **programming**
 
 - 📫 How to reach me **jonathanhatekah18@gmail.com**
+- 📫 How to reach me <mailto="jonathanhatekah18@gmail.com">
 
 - ⚡ Fun fact **Evolution♻️**
 
